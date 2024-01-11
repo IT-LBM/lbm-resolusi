@@ -1,9 +1,12 @@
 LBM RESULUSI
 - BELAJAR HAR BARU
 - MEMBUAT PLATFORM UNTUK PENGELOLAAN DATA
+    * pake tablue
+    * pake data web
 - MEMBUAT PENGEMBANGAN BARU
-  * belajar dari perusahaan lain
+    * belajar dari perusahaan lain
 - SEDANG MENGKADER IT DATA
-  * menambah orang baru
+    * mencari lulusan IT
+    * menambah orang baru
 - strukture data dasar
   * menambah wawasan lagi
