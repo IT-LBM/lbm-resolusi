@@ -2,6 +2,7 @@ LBM RESULUSI
 - BELAJAR HAR BARU
 - MEMBUAT PLATFORM UNTUK PENGELOLAAN DATA
 - MEMBUAT PENGEMBANGAN BARU
+  * belajar dari perusahaan lain
 - SEDANG MENGKADER IT DATA
   * menambah orang baru
 - strukture data dasar
