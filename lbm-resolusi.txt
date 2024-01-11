@@ -3,4 +3,6 @@ LBM RESULUSI
 - MEMBUAT PLATFORM UNTUK PENGELOLAAN DATA
 - MEMBUAT PENGEMBANGAN BARU
 - SEDANG MENGKADER IT DATA
+  * menambah orang baru
 - strukture data dasar
+  * menambah wawasan lagi
