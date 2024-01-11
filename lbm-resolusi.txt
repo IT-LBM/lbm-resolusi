@@ -4,6 +4,9 @@ LBM RESULUSI
     * pake tablue
     * pake data web
 - MEMBUAT PENGEMBANGAN BARU
+    * belajar dari perusahaan lain
 - SEDANG MENGKADER IT DATA
-   * mencari lulusan IT
+    * mencari lulusan IT
+    * menambah orang baru
 - strukture data dasar
+  * menambah wawasan lagi
