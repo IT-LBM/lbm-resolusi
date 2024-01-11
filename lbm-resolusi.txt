@@ -5,4 +5,5 @@ LBM RESULUSI
     * pake data web
 - MEMBUAT PENGEMBANGAN BARU
 - SEDANG MENGKADER IT DATA
+   * mencari lulusan IT
 - strukture data dasar
